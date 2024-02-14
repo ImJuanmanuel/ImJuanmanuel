@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Meza</h1>
 <h3 align="center">A .NET backend developer from mexico</h3>
 
-<p align="center"><img  src="https://github.com/ImJuanmanuel/ImJuanmanuel/assets/128924993/162e34d0-3b27-42b4-85c3-7d79b9e53dee" alt="imagen" width="512" height="512" align="center"/></p>
+<p align="center"><img  src="https://github.com/ImJuanmanuel/ImJuanmanuel/assets/128924993/162e34d0-3b27-42b4-85c3-7d79b9e53dee" alt="imagen" height="512" align="center"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjuanmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="imjuanmanuel" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨🏽‍💻 Fullstack Developer - Freelancer.
 - ⚡️ A lover of knowledge, always seeking to be better at what I do.
-- 🌱 I’m currently learning Next.js 14 and Tailwind.
+- 🌱 I’m currently learning ASP.NET.
 <br>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
