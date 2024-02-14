@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Meza</h1>
 <h3 align="center">A .NET backend developer from mexico</h3>
 
-<p align="center"><img  src="https://github.com/ImJuanmanuel/ImJuanmanuel/assets/128924993/162e34d0-3b27-42b4-85c3-7d79b9e53dee" alt="imagen" height="512" align="center"/></p>
+<p align="center"><img  src="https://github.com/ImJuanmanuel/ImJuanmanuel/assets/128924993/162e34d0-3b27-42b4-85c3-7d79b9e53dee" alt="imagen" height="512" width="512" align="center"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjuanmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="imjuanmanuel" /> </p>
 
