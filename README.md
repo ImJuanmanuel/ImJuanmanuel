@@ -7,6 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imjuanmanuel" alt="imjuanmanuel" /></a> </p>
 
+## About Me:
+
+- 👨🏽‍💻 Fullstack Developer - Freelancer.
+- ⚡️ A lover of knowledge, always seeking to be better at what I do.
+- 🌱 I’m currently learning Next.js 14 and Tailwind.
+<br>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **juanmanuel.techit@gmail.com**
